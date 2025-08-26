@@ -11,8 +11,7 @@ Tengo 20 años. Me interesa la programación.
 Mis hobbies son: Jugar videojuegos, escuchar música y ver series.
 
 Julián
-Hola mi nombre es Julián y me gusta comer pasta,
-el fútbol y los videojuegos
+Hola mi nombre es Julián y me gusta comer carne asada, el fútbol y los videojuegos.
 
 Marcelo
 Hola a todos, mi nombre es Marcelo, y me conocen por ser de Xela.
