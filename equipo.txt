@@ -1,3 +1,6 @@
+Jackelyn: Estoy estudiando Ing. en Computacion en la UVG, 
+    estoy en mi segundo año, tengo 19 y me gustan las actividades creativas.
+    
 Sergio Tan
 Tengo 20 años. Me interesa la programación.
 Mis hobbies son: Jugar videojuegos, escuchar música y ver series.
@@ -10,6 +13,7 @@ Marcelo
 Hola a todos, mi nombre es Marcelo, y me conocen por ser de Xela.
 Me encanta el tenis y los videjouegos y ver cualquier deporte.
 
+Alejandro
 Hola, mi nombre es Alejandro. 
 Soy Estudiante de ingenieria con interés en la tecnologia. 
 Me apasiona la natacion y aprender nuevas habilidades inclusi si no estan relacionadas con la tecnologia.
